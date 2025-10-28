@@ -1528,11 +1528,11 @@ Given the uncertainty, a mid-sized e-commerce company should pursue a **balanced
 *Deepen Integration IF:*
 - ChatGPT traffic grows to >10% of total customer acquisition
 - Customer feedback indicates expectation of ChatGPT availability
-- Platform terms remain fair (commission <10%, no policy surprises)
+- Platform terms remain fair (commission &lt;10%, no policy surprises)
 - Competitors are successfully using ChatGPT integration
 
 *Reduce/Exit Integration IF:*
-- ChatGPT traffic remains <2% after 12 months
+- ChatGPT traffic remains &lt;2% after 12 months
 - OpenAI changes terms unfavorably or enters e-commerce directly
 - Alternative AI platforms (Google, Microsoft, Amazon) prove more beneficial
 - Integration drains resources without measurable return
