@@ -583,7 +583,7 @@ OpenAI is GREEDY    │   Glad I avoided   │   NIGHTMARE
 ✅ Competitors are succeeding there
 
 **PULL BACK if:**
-❌ ChatGPT brings <2% of sales after 12 months
+❌ ChatGPT brings &lt;2% of sales after 12 months
 
 ❌ OpenAI raises fees dramatically
 
