@@ -1,0 +1,5 @@
+# Node dependencies (optional if already global)
+website/node_modules
+
+# Docusaurus build output
+website/build
