@@ -2402,7 +2402,7 @@ This requires synthesizing everything we've learned into a coherent strategic pl
 - **Q3:** Improve multi-agent coordination (agents working together on complex tasks)
 - **Q4:** Expand language support beyond English (Spanish, Chinese, Hindi, Arabic priority)
 
-*Milestones:* 1,000 published apps; 50M monthly active users on platform apps; <0.1% critical failure rate
+*Milestones:* 1,000 published apps; 50M monthly active users on platform apps; &lt;0.1% critical failure rate
 
 **Ecosystem Growth:**
 - Focus on "proof of concept" apps in high-value verticals: travel, e-commerce, education, productivity
