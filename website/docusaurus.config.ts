@@ -70,6 +70,15 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+      "docusaurus-lunr-search",
+      {
+        indexBaseUrl: true,
+      },
+    ],
+  ],
+
   themeConfig: {
     navbar: {
       title: "TutorsGPT",
@@ -79,6 +88,10 @@ const config: Config = {
           sidebarId: "tutorialSidebar",
           position: "left",
           label: "Learn",
+        },
+        {
+          type: "search",
+          position: "right",
         },
         {
           href: "https://github.com/devhammad0/agentic-ai",

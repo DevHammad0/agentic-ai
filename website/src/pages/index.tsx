@@ -29,11 +29,6 @@ function HomepageHeader() {
               to="/docs/intro">
               Start Learning Now
             </Link>
-            <Link
-              className={clsx('button button--outline button--lg', styles.secondaryBtn)}
-              to="/docs/00_agentic_web/intro">
-              Explore AI Agents
-            </Link>
           </div>
         </div>
       </div>

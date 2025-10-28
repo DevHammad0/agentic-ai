@@ -19,11 +19,6 @@ export default function HomepageCTA(): ReactNode {
               to="/docs/intro">
               Begin Your Journey
             </Link>
-            <Link
-              className={clsx('button button--outline button--lg', styles.secondaryBtn)}
-              to="/docs/01_agentic_org/intro">
-              Explore Organizational Impact
-            </Link>
           </div>
         </div>
       </div>
