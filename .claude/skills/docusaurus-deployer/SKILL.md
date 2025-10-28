@@ -40,7 +40,7 @@ Examine Docusaurus project:
 ```bash
 ls -la path_to_docusaurus_project/
 cat path_to_docusaurus_project/docusaurus.config.ts
-cat path_to_docusaurus_project/sidebars.js
+cat path_to_docusaurus_project/sidebars.ts
 ```
 
 Verify docusaurus.config.ts, sidebars.js/ts, package.json engines field, and dependencies exist.
